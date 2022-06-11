@@ -17,3 +17,9 @@ git config --global --unset http.proxy
 ``` shell
 npm create vite@latest
 ```
+
+### 1.4 Install Web Plugins
+```
+npm install vue-router@4
+npm install pinia
+```
